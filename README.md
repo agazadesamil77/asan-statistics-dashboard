@@ -52,8 +52,6 @@ About **62%** of all requests (65.3 M of 104.7 M) come from the **Baku-Absheron*
 - No missing values, no duplicate rows
 - File encoding is **UTF-16**, tab-separated
 
-Data source: _add the source link here_.
-
 ## Data model
 
 ```
